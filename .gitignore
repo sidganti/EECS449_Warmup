@@ -1,0 +1,5 @@
+.DS_Store
+/env
+/venv
+
+/tfm_ner_model
